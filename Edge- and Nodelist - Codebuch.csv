@@ -1,0 +1,42 @@
+Codebuch Testat 2
+
+
+# NODE-Attribute
+**id**
+Identische ID wie in der edgelist zur Identifikation der Knoten.
+
+**type**
+0 = Organisation
+1 = Person
+
+**age**
+Alter der involvierten Person:
+1= 30 bis 40 Jahre
+2 = 41 bis 60 Jahre
+3 = 61 und älter
+
+**workarea**
+1 = Vorstand
+2 = Aufsichtsrat
+3 = Unternehmen die mit dem Vorstand verknüpft sind 
+4 = Unternehmen die mit dem Aufsichtsrat verknüpft sind 
+
+
+**position**
+gibt die Position an
+
+1 = Vorsitz
+2 = Stellv. Vorsitz
+3 = Mitglied 
+
+
+**type**
+0 = Person
+1 = Organisation
+
+**repräsentation**
+"bezieht sich auf die Funktion innerhalb der Vfb Gremien: Politik Wirtschaft, Gesellschaft, Umwelt, Sport, Wissenschaft"
+
+1 = Mitglieder und Fans
+2 = Wirtschaft und Gesellschaft
+3 = Sport und Verein
