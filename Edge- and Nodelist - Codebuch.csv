@@ -1,5 +1,3 @@
-Codebuch Testat 2
-
 
 # NODE-Attribute
 **id**
@@ -29,10 +27,6 @@ gibt die Position an
 2 = Stellv. Vorsitz
 3 = Mitglied 
 
-
-**type**
-0 = Person
-1 = Organisation
 
 **repräsentation**
 "bezieht sich auf die Funktion innerhalb der Vfb Gremien: Politik Wirtschaft, Gesellschaft, Umwelt, Sport, Wissenschaft"
