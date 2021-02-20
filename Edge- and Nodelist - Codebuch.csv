@@ -18,7 +18,7 @@ Alter der involvierten Person:
 2 = Aufsichtsrat
 3 = Unternehmen die mit dem Vorstand verknüpft sind 
 4 = Unternehmen die mit dem Aufsichtsrat verknüpft sind 
-
+5 = Organ innerhalb des VfB Stuttgart 
 
 **position**
 gibt die Position an
@@ -27,10 +27,15 @@ gibt die Position an
 2 = Stellv. Vorsitz
 3 = Mitglied 
 
-
 **repräsentation**
 "bezieht sich auf die Funktion innerhalb der Vfb Gremien: Politik Wirtschaft, Gesellschaft, Umwelt, Sport, Wissenschaft"
 
-1 = Mitglieder und Fans
-2 = Wirtschaft und Gesellschaft
-3 = Sport und Verein
+1 = Politik
+2 = Wirtschaft
+3 = Gesellschaft
+4 = Umwelt
+5 = Sport
+6 = Wissenschaft
+7 = Gewerkschaft
+8 = Kommunikation
+9= Marketing
