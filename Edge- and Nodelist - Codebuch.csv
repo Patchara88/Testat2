@@ -4,8 +4,8 @@
 Identische ID wie in der edgelist zur Identifikation der Knoten.
 
 **type**
-0 = Organisation
-1 = Person
+1= Organisation 
+2 = Person
 
 **age**
 Alter der involvierten Person:
@@ -13,12 +13,11 @@ Alter der involvierten Person:
 2 = 41 bis 60 Jahre
 3 = 61 und älter
 
-**workarea**
+**area**
 1 = Vorstand
 2 = Aufsichtsrat
 3 = Unternehmen die mit dem Vorstand verknüpft sind 
 4 = Unternehmen die mit dem Aufsichtsrat verknüpft sind 
-5 = Organ innerhalb des VfB Stuttgart 
 
 **position**
 gibt die Position an
