@@ -1,0 +1,38 @@
+ID,name,type,age,area,position,representation
+TH,Thomas Hitzlsperger,2,1,1,1,5
+TK,Tobias Keller,2,1,1,2,2
+SH,Stefan Heim,2,2,1,2,NA
+OS,Oliver Schraft,2,2,1,2,3
+CV,Claus Vogt,2,2,2,3,3
+WP,Wilfried Porth,2,3,2,3,2
+RA,Rainer Adrion,2,3,2,3,5
+HJ,Hartmut Jenner,2,2,2,3,NA
+FR,Franz Reiner,2,2,2,3,NA
+BS,Dr. Bertram Sugg,2,2,2,3,3
+VFB,VFB Stuttgart,1,NA,3,NA,NA
+PV,Präsidium VfB,1,NA,3,NA,NA
+NZ,Nachwuchsleistungszentrum VfB,1,NA,3,NA,NA
+FCB,FC Bayer München,1,NA,3,NA,NA
+AV,Aston Villa,1,NA,3,NA,NA
+F,Fernsehsender,1,NA,3,NA,NA
+DAF,Deutscha Akademie für Fußballkultur,1,NA,3,NA,NA
+FIFA,FIFA,1,NA,3,NA,NA
+VFLW,VfL Wolfsburg,1,NA,3,NA,NA
+KCM,Komission Clubmedien,1,NA,3,NA,NA
+GL,Geschäftsleitung,1,NA,3,NA,NA
+RB,Robert Bosch GmbH,1,NA,4,NA,NA
+IH,Intesia Group Holding GmbH,1,NA,4,NA,NA
+MT,Metro Group,1,NA,4,NA,NA
+FCPF,FC Play Fair Verein,1,NA,4,NA,NA
+DAG,Daimler AG,1,NA,4,NA,NA
+SWM,Südwestmetall,1,NA,4,NA,NA
+MFT,Mitsubishi Fuso Truck and Bus Corporation,1,NA,4,NA,NA
+MBAG,Mercedes-Benz AG,1,NA,4,NA,NA
+DTAG,Daimler Truck AG,1,NA,4,NA,NA
+DFB,Deutscher Fußballbund,1,NA,4,NA,NA
+HEV,11 hilft e.V.,1,NA,4,NA,NA
+KSE,Alfred Kärcher SE & Co. KG,1,NA,4,NA,NA
+DFCAG,Daimler Financial Services AG,1,NA,4,NA,NA
+MBBAG,Mercedes-Benz Bank AG,1,NA,4,NA,NA
+FCCG,Fancluc Courage Gerlingen,1,NA,4,NA,NA
+MVV,Mitgliederausschuss des VfB Vereinsentsicklung,1,NA,3,NA,NA
