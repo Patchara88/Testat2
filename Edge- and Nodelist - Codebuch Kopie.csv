@@ -4,8 +4,8 @@
 Identische ID wie in der edgelist zur Identifikation der Knoten.
 
 **type**
-0 = Organisation
-1 = Person
+1 = Organisation
+2 = Person
 
 **age**
 Alter der involvierten Person:
